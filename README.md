@@ -1,4 +1,4 @@
-# LabView_MultiWaterLevelIndicator
+# Multi Level Indicator in LabView
 _*I couldn't find my LabView file at the moment. Once I find it from my old HDD, I'll upload it here_
 
 The LabView consists of a Front Panel and a Back end programing Panel. The coding is done diagrammatically using code blocks. This eases the hardship of assembly language coding of microprocessors. 
