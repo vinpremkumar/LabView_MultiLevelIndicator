@@ -1,4 +1,6 @@
 # LabView_MultiWaterLevelIndicator
+_*I couldn't find my LabView file at the moment. Once I find it from my old HDD, I'll upload it here_
+
 The LabView consists of a Front Panel and a Back end programing Panel. The coding is done diagrammatically using code blocks. This eases the hardship of assembly language coding of microprocessors. 
 
 The Front Panel is the Man-Machine-Interface side. Using the MMI, technicians can control the systems. For example, if one needs to switch off a specific system since the paint tank is not used for the day’s target, they can turn it off from the MMI and thus save power. This allows remote control of the systems.
